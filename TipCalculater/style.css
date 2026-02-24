@@ -4,11 +4,16 @@ h1{
     border-radius: 5px;
     padding: 10px;
 }
+body{
+    display:flex;
+    justify-content: center;
+}
 div{
+    align-content: center;
     border: 2px solid black;
     border-radius: 5px;
     text-align: center;
-    width: 1200px;
+    width: 600px;
 }
 p{
     background-color: lightgreen;
