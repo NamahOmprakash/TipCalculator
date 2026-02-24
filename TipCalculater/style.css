@@ -1,0 +1,36 @@
+h1{
+    background-color: aqua;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+div{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    width: 1200px;
+}
+p{
+    background-color: lightgreen;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#abc{
+    background-color: rgb(237, 223, 76);
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+h3{
+    background-color: lightcyan;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#output{
+    background-color: lightcyan;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 30px;
+}
